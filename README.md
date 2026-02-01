@@ -1,4 +1,4 @@
-# Hi, I'm 👋
+# Hi, I'm Manish👋
 
 Welcome to my GitHub profile!
 
